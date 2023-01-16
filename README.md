@@ -36,9 +36,20 @@ oh, and coding, but then this readme wouldn't exist so I guess it's implicit ðŸ˜
 -----
 
 ### languages & frameworks I usually use:
-- JS/TS: ReactJS, NodeJS, Express, TSOA, Jest, Mongoose ORM, MongoDB
 
-- Python: Flask, Pytest, SQLAlchemy ORM, PostgreSQL
+- **JS/TS**: `ReactJS, NodeJS, Express, TSOA, Jest, Mongoose ORM, MongoDB`
+
+- **Python**: `Flask, Pytest, SQLAlchemy ORM, PostgreSQL`
+
+-----
+
+### have deployed using:
+
+- Docker Swarm
+- Nginx
+- Digital Ocean
+- Netlify
+- AWS
 
 -----
 
