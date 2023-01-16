@@ -35,6 +35,13 @@ oh, and coding, but then this readme wouldn't exist so I guess it's implicit �
 
 -----
 
+### languages & frameworks I usually use:
+- JS/TS: ReactJS, NodeJS, Express, TSOA, Jest, Mongoose ORM, MongoDB
+
+- Python: Flask, Pytest, SQLAlchemy ORM, PostgreSQL
+
+-----
+
 If I had a motto, this wouldn't be it. Peace ✌🏽
 
-`updatedAt: 2023/01/01`
+`updatedAt: 2023/01/16`
