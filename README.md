@@ -3,14 +3,14 @@
 ### things I've worked on and are still up:
 
 - 🐮 [pecus](https://pecus.app): breeding cattle management 
-- 🐴 [donkeyniela](https://www.donkeyniela.games): pilot for a sport match predicition games platform
+- 🐴 [donkeyniela](https://www.donkeyniela.games): sport match predicition games platform
+- 🆘 [fondo ciudadano](https://fondociudadano.com): pilot for a community managed HRP project donations platform
 
 -----
 
 ### things I'm working on:
 
-- 🆘 [fondo ciudadano](https://fondociudadano.com): ongoing pilot for a community managed HRP project donations platform
-- 🐴 donkeyniela: refactor & relaunch as market ready product
+- 🔋 reloading...
 
 -----
 
@@ -55,4 +55,4 @@ oh, and coding, but then this readme wouldn't exist so I guess it's implicit �
 
 If I had a motto, this wouldn't be it. Peace ✌🏽
 
-`updatedAt: 2023/01/16`
+`updatedAt: 2023/10/08`
