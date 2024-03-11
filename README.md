@@ -10,7 +10,7 @@
 
 ### things I'm working on:
 
-- 🔋 reloading...
+- 🏨 condopia: condominium self-management platform
 
 -----
 
@@ -39,7 +39,11 @@ oh, and coding, but then this readme wouldn't exist so I guess it's implicit �
 
 - **JS/TS**: `ReactJS, NodeJS, Express, TSOA, Jest, Mongoose ORM, MongoDB`
 
+>![](https://skillicons.dev/icons?i=react,nodejs,express,jest,mongodb&perline=5)
+
 - **Python**: `Flask, Pytest, SQLAlchemy ORM, PostgreSQL`
+
+>![](https://skillicons.dev/icons?i=flask,postgres&perline=5)
 
 -----
 
@@ -55,4 +59,4 @@ oh, and coding, but then this readme wouldn't exist so I guess it's implicit �
 
 If I had a motto, this wouldn't be it. Peace ✌🏽
 
-`updatedAt: 2023/10/08`
+`updatedAt: 2024/03/11`
